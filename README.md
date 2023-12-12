@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a junior Computer Science major at the University of Texas at Austin. My interests lie in machine learning and robotics.
+
 <!--
 **akarmakar87/akarmakar87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
