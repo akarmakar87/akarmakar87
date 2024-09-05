@@ -1,3 +1,3 @@
 ### Hello! 👋
 
-I am a junior Computer Science major at the University of Texas at Austin.
+I am a senior Computer Science major at the University of Texas at Austin.
